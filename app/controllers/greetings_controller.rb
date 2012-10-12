@@ -1,5 +1,9 @@
 class GreetingsController < ApplicationController
   def salutations
     
-  end  
+  end
+  
+  def wazzup
+    
+  end
 end
